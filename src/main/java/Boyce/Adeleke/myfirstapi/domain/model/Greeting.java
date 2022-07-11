@@ -1,4 +1,4 @@
-package Boyce.Adeleke.myfirstapi.restservice.model;
+package Boyce.Adeleke.myfirstapi.domain.model;
 
 public class Greeting {
 

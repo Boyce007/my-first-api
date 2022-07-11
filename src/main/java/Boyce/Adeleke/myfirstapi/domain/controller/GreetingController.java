@@ -1,8 +1,8 @@
-package Boyce.Adeleke.myfirstapi.restservice.controller;
+package Boyce.Adeleke.myfirstapi.domain.controller;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-import Boyce.Adeleke.myfirstapi.restservice.model.Greeting;
+import Boyce.Adeleke.myfirstapi.domain.model.Greeting;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
